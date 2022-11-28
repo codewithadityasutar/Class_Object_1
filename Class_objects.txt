@@ -1,0 +1,9 @@
+class Addition:
+    def add(self,a,b):
+        c=a+b
+        print ("Additon is ",c)
+ #create obejects       
+s=Addition() # object_name=class_name() 
+s.add(10,20) # pass the value
+
+# output: Addition is 30
